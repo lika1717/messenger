@@ -1,0 +1,17 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication7.AutorizationAvalonia"
+        Background="Gray"
+        Title="AutorizationAvalonia">
+  <Grid>
+    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" RenderTransformOrigin="0.51,0.5" Height="56" Margin="169,74,169,159" Width="300">Enter your name:</TextBlock>
+    <TextBox TextAlignment="Center"  FontSize="15"  x:Name="textbox1" HorizontalAlignment="Center" Width="300" Height="30" VerticalAlignment="Center" Margin="169,134,169,125"></TextBox>
+  
+    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" RenderTransformOrigin="0.51,0.5" Height="56" Margin="169,240,169,159" Width="300">Enter ip of server:</TextBlock>
+    <TextBox TextAlignment="Center"  FontSize="15"  x:Name="textbox2" HorizontalAlignment="Center" Width="300" Height="30" VerticalAlignment="Center" Margin="169,300,169,125"></TextBox>  
+  <Button x:Name="button1"  HorizontalAlignment="Center" Width="300" Height="45" VerticalAlignment="Center" Margin="169,350,169,63">Enter</Button>
+  </Grid>
+</Window>

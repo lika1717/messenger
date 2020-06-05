@@ -1,0 +1,13 @@
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.exe
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.deps.json
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.runtimeconfig.json
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.runtimeconfig.dev.json
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.dll
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\bin\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.pdb
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\obj\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\obj\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.AssemblyInfoInputs.cache
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\obj\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.AssemblyInfo.cs
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\obj\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.dll
+C:\Users\Марина\source\repos\AvaloniaApplication7\AvaloniaApplication7\obj\Release\netcoreapp2.1\win10-x64\AvaloniaApplication7.pdb

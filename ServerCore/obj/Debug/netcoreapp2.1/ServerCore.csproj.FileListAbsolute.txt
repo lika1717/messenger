@@ -1,0 +1,31 @@
+C:\Users\Марина\source\repos\CharServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+C:\Users\Марина\source\repos\CharServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.json
+C:\Users\Марина\source\repos\CharServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.dev.json
+C:\Users\Марина\source\repos\CharServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\source\repos\CharServer\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\source\repos\CharServer\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Марина\source\repos\Messenger\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+C:\Users\Марина\source\repos\Messenger\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.json
+C:\Users\Марина\source\repos\Messenger\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.dev.json
+C:\Users\Марина\source\repos\Messenger\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\source\repos\Messenger\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Марина\source\repos\Messenger\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\Messenger\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Марина\source\repos\Messenger\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+C:\Users\Марина\source\repos\Messenger\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\source\repos\Messenger\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Марина\Desktop\мой (1)\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.deps.json
+C:\Users\Марина\Desktop\мой (1)\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.json
+C:\Users\Марина\Desktop\мой (1)\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.runtimeconfig.dev.json
+C:\Users\Марина\Desktop\мой (1)\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\Desktop\мой (1)\ServerCore\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Марина\Desktop\мой (1)\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.csprojAssemblyReference.cache
+C:\Users\Марина\Desktop\мой (1)\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Марина\Desktop\мой (1)\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.AssemblyInfo.cs
+C:\Users\Марина\Desktop\мой (1)\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Марина\Desktop\мой (1)\ServerCore\obj\Debug\netcoreapp2.1\ServerCore.pdb

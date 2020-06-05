@@ -1,0 +1,40 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication7.MainWindow"
+        Title="AvaloniaApplication7">
+  <Grid >
+    <Grid.RowDefinitions>
+      <RowDefinition></RowDefinition>
+      <RowDefinition></RowDefinition>
+      <RowDefinition></RowDefinition>
+      <RowDefinition Height="40"></RowDefinition>
+
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="180"></ColumnDefinition>
+      <ColumnDefinition></ColumnDefinition>
+      <ColumnDefinition Width="120"></ColumnDefinition>
+
+    </Grid.ColumnDefinitions>
+    <ListBox x:Name="list1"  Grid.Column="0" Grid.Row="0" Grid.RowSpan="3" Background="IndianRed">
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+      <StackPanel Margin="5" Background="DarkRed">
+        
+        <TextBlock FontSize="16"  Text="{Binding Path=Name}" HorizontalAlignment="Center" />
+        
+      </StackPanel>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
+    <Button x:Name="button2" Grid.Column="0" Grid.Row="3">Connect</Button>
+    <TextBox  x:Name="textBox1"  FontSize="20" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Background="Red"></TextBox>
+    <ScrollViewer Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="3">
+      <TextBlock FontSize="20"  x:Name="block1"  Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="3" Background="PaleVioletRed"></TextBlock>
+    </ScrollViewer>
+    <Button x:Name="button1" Grid.Column="2" Grid.Row="3" >Send</Button>
+  </Grid>
+</Window>
